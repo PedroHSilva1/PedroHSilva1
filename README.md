@@ -32,7 +32,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [**Projeto 1**](https://github.com/PedroHSilva1/rpg-app) | Aplicação mobile sobre rpg, uma wiki própria e criação de personagem. | JavaScript, React Native |
+| [**Wiki APP**](https://github.com/PedroHSilva1/rpg-app) | Aplicação mobile sobre rpg, uma wiki própria e criação de personagem. | JavaScript, React Native |
 | [**Sistema Escolar**](https://github.com/PedroHSilva1/Sistema-escolar) | sistema de gerenciamento escolar básico, permitindo o cadastro de alunos e funcionários, controle de presença, gestão de notas e um sistema de login para diferentes tipos de usuários. | C# |
 | [**Sistema Backend**](https://github.com/PedroHSilva1/Desafio_Node/tree/main) | Sistema Backend com Banco de dados para um e-commerce. | JavaScript, Node.js, Prisma |
 
