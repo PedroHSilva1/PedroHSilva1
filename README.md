@@ -13,7 +13,7 @@
 
 ## 🚀 Minhas Tecnologias e Ferramentas
 
-![Ferramentas](https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,java,git,github,docker,)
+![Ferramentas](https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,java,git,github,docker)
 
 ---
 
